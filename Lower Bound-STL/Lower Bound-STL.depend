@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587314928 source:e:\hakerrank\lower bound-stl\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+	<stdio.h>
+	<algorithm>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587289450 source:e:\hakerrank\vector-erase\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<algorithm>
+	<iterator>
+

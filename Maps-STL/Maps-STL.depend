@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587469929 source:e:\hakerrank\maps-stl\main.cpp
+	<iostream>
+	<stdio.h>
+	<map>
+	<string>
+
